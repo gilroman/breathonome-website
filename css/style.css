@@ -1,0 +1,19 @@
+.header-nav-link {
+  text-decoration: none;
+}
+
+.footer-nav-link {
+  color: #ffffff;
+  font-family: Roboto, sans-serif;
+  font-weight: 100;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.footer-nav-link:hover {
+  color: #bfbfbf;
+}
+
+.footer-nav-link::visited {
+  color: #ffffff;
+}
